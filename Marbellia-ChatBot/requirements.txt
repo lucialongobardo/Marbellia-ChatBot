@@ -1,0 +1,15 @@
+langchain 
+serpapi
+langchain_openai
+pinecone
+youtube_transcript_api
+torch
+python-dotenv
+tqdm
+bs4
+regex
+sentence-transformers
+transformers
+requests
+gradio
+
